@@ -8,3 +8,6 @@ Iniciara los nuevo comandos
 Proceso de commit -a
 
 proceso add
+
+
+Rama prinicipal
