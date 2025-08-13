@@ -1,6 +1,6 @@
 Bienvenido al curso de Git
 
-Titulo Curso de Git
+Titulo GitHub Vs GitLab
 
 Iniciara los nuevo comandos
 
