@@ -5,7 +5,7 @@ Titulo Curso de Git
 Iniciara los nuevo comandos
 
 
-Proceso de commit -a
+Proceso de commit -b
 
 proceso add
 
