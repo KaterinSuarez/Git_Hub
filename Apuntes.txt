@@ -11,5 +11,4 @@ proceso add
 
 
 Rama prinicipal
-
-Actualización de texto
+Color azul
