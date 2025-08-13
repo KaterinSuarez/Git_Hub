@@ -1,6 +1,6 @@
 Bienvenido al curso de Git
 
-Titulo Curso de Git
+Titulo Ya empieza con Git Hub
 
 Iniciara los nuevo comandos
 
