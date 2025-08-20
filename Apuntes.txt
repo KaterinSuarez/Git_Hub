@@ -1,4 +1,4 @@
-Bienvenido al curso de Git
+Bienvenido al curso de Git y GitHub
 
 Titulo GitHub Vs GitLab
 
