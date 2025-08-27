@@ -5,7 +5,7 @@ Titulo GitHub Vs GitLab
 Iniciara los nuevo comandos
 
 
-Proceso de commit -b
+Proceso de commit -10
 
 proceso add
 
