@@ -1,4 +1,4 @@
-Bienvenido al curso de Git y GitHub
+Bienvenido al curso de Git y GitHub de Capedesis
 
 Titulo Apenas empieza lo bueno
 
