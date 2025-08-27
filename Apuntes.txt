@@ -1,6 +1,6 @@
 Bienvenido al curso de Git y GitHub
 
-Titulo GitHub Vs GitLab
+Titulo Apenas empieza lo bueno
 
 Iniciara los nuevo comandos
 
