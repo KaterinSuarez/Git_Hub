@@ -1,6 +1,6 @@
 Bienvenido al curso de Git y GitHub
 
-Titulo Espero te este gustando el cursol
+Titulo Espero te este gustando el curso
 
 Iniciara los nuevo comandos
 
