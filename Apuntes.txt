@@ -1,6 +1,6 @@
 Bienvenido al curso de Git y GitHub
 
-Titulo Apenas empieza lo bueno
+Titulo Empieza lo bueno
 
 Iniciara los nuevo comandos
 
