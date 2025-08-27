@@ -5,7 +5,7 @@ Titulo Empieza lo bueno
 Iniciara los nuevo comandos
 
 
-Proceso de commit -11
+Proceso de commit +++
 
 proceso add
 
