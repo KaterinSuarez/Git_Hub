@@ -5,7 +5,7 @@ Titulo Iniciando con ramas en GitHub
 Iniciara los nuevo comandos con la rama diseño compleo
 
 
-Proceso de commit +++ 200
+Proceso de commit 20 +++ 20
 
 proceso add,delete,tags, alias
 
