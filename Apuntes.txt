@@ -1,14 +1,14 @@
-Bienvenido al curso de Git y GitHub
+Bienvenido al curso de Git & GitHub
 
 Titulo Iniciando con ramas en GitHub
 
-Iniciara los nuevo comandos **
+Iniciara los nuevo comandos con la rama diseño compleo
 
 
-Proceso de commit +++ ---
+Proceso de commit +++ 2
 
 proceso add,delete,tags y alias
 
 
 Rama diseñocompleto
-Color verde
+Color rojo
