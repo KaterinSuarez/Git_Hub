@@ -5,10 +5,9 @@ Titulo Iniciando con ramas en GitHub
 Iniciara los nuevo comandos con la rama diseño compleo
 
 
-Proceso de commit 20 +++ 20
+Proceso de commit ++1
 
 proceso add,delete,tags, alias
 
-
-Rama diseñocompleto & main
+Edicion de un fork
 Color rojo
