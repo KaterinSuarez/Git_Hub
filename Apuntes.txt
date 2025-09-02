@@ -7,8 +7,8 @@ Iniciara los nuevo comandos con la rama diseño compleo
 
 Proceso de commit +++ 2
 
-proceso add,delete,tags y alias
+proceso add,delete,tags
 
 
-Rama diseñocompleto
+Rama diseñocompleto & main
 Color rojo
