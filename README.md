@@ -12,3 +12,6 @@ En este curso vemos desde lo mas basico hasta lo mas avanzado en entornos reales
 *Incluye solucion de dudas
 *Con ejemplos reales y trabajo en equipo
 *Para todo tipo de Programados (Movil, Web, etc)
+
+**Este commit si esta completo
+**espero no me regañen**
