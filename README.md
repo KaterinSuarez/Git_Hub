@@ -10,4 +10,5 @@ En este curso vemos desde lo mas basico hasta lo mas avanzado en entornos reales
 **Instructor Jorge Salgado Miranda
 **Aprendiz Katerin Pedraza
 *Incluye solucion de dudas
-*Con ejemplos reales y trabajo en ewuipo
+*Con ejemplos reales y trabajo en equipo
+*Para todo tipo de Programados (Movil, Web, etc)
