@@ -4,6 +4,9 @@ Titulo Iniciando con ramas en GitHub
 
 Iniciara los nuevo comandos con la rama diseño compleo
 
+//Rama experimental (Experimento 1)
+
+
 //Main 1
 //Main (commit 2)
 Proceso de commit ++aumentar
