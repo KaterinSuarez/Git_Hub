@@ -2,7 +2,7 @@ Bienvenido al curso de Git & GitHub
 
 Titulo Iniciando con ramas en GitHub
 
-Iniciara los nuevo comandos con la rama diseño compleo
+Iniciara los nuevo comandos con la rama compleo
 
 Proceso de commit ++aumentar
 
