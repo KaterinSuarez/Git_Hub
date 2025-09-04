@@ -10,3 +10,5 @@ proceso add,delete,tags, alias
 
 Edicion de un fork
 Color rojo
+
+///Proceso git cherry-pick
