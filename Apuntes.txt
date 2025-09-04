@@ -10,5 +10,3 @@ proceso add,delete,tags, alias
 
 Edicion de un fork
 Color rojo
-
-//Proceso de prueba realizado por Katerin
